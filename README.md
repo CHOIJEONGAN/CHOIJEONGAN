@@ -5,9 +5,8 @@
 - **GitHub**: github.com/CHOIJEONGAN
 - **Blog**: tstory
 - **You can reach me Via 💌cja4ys@gmail.com**
-  <br>
-  ✔️
-  <br>
+
+✔️
 
 ## ⚡ Projects ⚡
 
