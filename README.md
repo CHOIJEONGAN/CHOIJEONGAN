@@ -2,7 +2,7 @@
 
 - **Name**: CHOI JEONG AN
 - **Birth**: 1991.07.22
-- **Languages**: Korean🇰🇷 / English🇺🇸 / Chinese🇨🇳
+- **Languages**: Korean:🇰🇷: / English:🇺🇸: / Chinese:🇨🇳:
 - **GitHub**: https://github.com/CHOIJEONGAN
 - **Blog**: tstory
 - **You can reach me Via 💌cja4ys@gmail.com**
