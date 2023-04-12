@@ -1,12 +1,13 @@
 ## ✨About me✨
 
-- **Name**:CHOI JEONG AN
-- **Birth**:1991.07.22
-- **GitHub**:github.com/CHOIJEONGAN
-- **Blog**:tstory
+- **Name**: CHOI JEONG AN
+- **Birth**: 1991.07.22
+- **GitHub**: github.com/CHOIJEONGAN
+- **Blog**: tstory
 - **You can reach me Via 💌cja4ys@gmail.com**
-
-✔️
+  <br>
+  ✔️
+  <br>
 
 ## ⚡ Projects ⚡
 
